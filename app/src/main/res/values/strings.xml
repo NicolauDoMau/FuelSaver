@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fuelSaver</string>
+    <string name="nomeVeic">Digite o nome do seu veículo</string>
+</resources>

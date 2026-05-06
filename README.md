@@ -50,8 +50,8 @@ Resultados exibidos:
    git clone https://github.com/seu-usuario/FuelSaver.git
 
    ##Fotos do projeto
-  <img width="1080" height="2400" alt="Screenshot_20260506_195347_fuelSaver" src="https://github.com/user-attachments/assets/e95dc4da-9638-4d37-bac6-68070ebddbb2" />
-  <img width="1080" height="2400" alt="Screenshot_20260506_195357_fuelSaver" src="https://github.com/user-attachments/assets/def0e34b-35c0-46b7-a7a5-90d277fc9cff" />
+  <img width="1920" height="1080" alt="Screenshot_20260506_195347_fuelSaver" src="https://github.com/user-attachments/assets/e95dc4da-9638-4d37-bac6-68070ebddbb2" />
+  <img width="1920" height="1080" alt="Screenshot_20260506_195357_fuelSaver" src="https://github.com/user-attachments/assets/def0e34b-35c0-46b7-a7a5-90d277fc9cff" />
 
 
 
